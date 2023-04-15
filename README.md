@@ -1,5 +1,9 @@
-### [Telecom Churn Prediction]()
+<h><b>Telecom Churn Prediction</b></h>
 <img align="center" src="https://miro.medium.com/max/300/1*A-6PzYAEzHbXejMOoOYYHg.jpeg" width="900" height="300" /> 
+
+
+### [Telecom Churn Prediction](https://github.com/MeghanaH0706/Telecom_Churn_Prediction/tree/main/Telecom%20Churn%20Prediction)
+
 <h> Problem Statement: </h>
 
 <h><b>CUSTOMER CHURN </b></h>
