@@ -1,4 +1,4 @@
-# Telecom_Churn_Prediction
+### [Telecom Churn Prediction]()
 <img align="center" src="https://miro.medium.com/max/300/1*A-6PzYAEzHbXejMOoOYYHg.jpeg" width="900" height="300" /> 
 <h> Problem Statement: </h>
 
